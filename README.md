@@ -23,7 +23,7 @@ Each row represents one team and must contain six columns:
 
 | Manager | Prize | Coordinator | Prize | Salesperson | Prize |
 |---|---|---|---|---|---|
-| Jeferson | Watch | Fictício | Backpack | Anna | Mini Motorcycle |
+| . |  |  |  |  | prêmio |
 | Claudia | Cup | Mirian | Backpack | Ge | Bike |
 
 Supports CSV files (`;` or `,`) and tab-separated spreadsheet data.
