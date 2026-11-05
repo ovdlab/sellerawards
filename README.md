@@ -21,10 +21,10 @@ A web application developed for the **Grupo OVD LIVE SHOP Vonder** to showcase p
 
 Each row represents one team and must contain six columns:
 
-| Manager | Prize | Coordinator | Prize | Salesperson | Prize |
-|---|---|---|---|---|---|
-| . |  |  |  |  | prêmio |
-| Claudia | Cup | Mirian | Backpack | Ge | Bike |
+| **Manager** | **Prize** | **Coordinator** | **Prize** | **Salesperson** | **Prize** |
+| ----------- | --------- | --------------- | --------- | --------------- | --------- |
+|             |           |                 |           |                 |           |
+|             |           |                 |           |                 |           |
 
 Supports CSV files (`;` or `,`) and tab-separated spreadsheet data.
 
